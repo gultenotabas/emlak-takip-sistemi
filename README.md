@@ -1,0 +1,2 @@
+# emlak takip sistemi
+ 
